@@ -4113,3 +4113,9 @@ h6 {
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
+
+.embed-container {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 10%;
+}
