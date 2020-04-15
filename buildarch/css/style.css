@@ -414,6 +414,7 @@ button:focus {
     font-size: 12px;
 }
 
+
 /* Home Banner Area css
 ============================================================================================ */
 .home_banner_area {
@@ -573,7 +574,7 @@ button:focus {
 ============================================================================================ */
 .home_banner_area {
     z-index: 1;
-    background: url(../img/banner/casaBanner.png) no-repeat scroll center center;
+    background: url(../img/banner/casaBanner.jpg) no-repeat scroll center center;
     background-size: cover;
 }
 
@@ -590,9 +591,9 @@ button:focus {
     background: rgba(255, 255, 255, 0);
     padding: 65px 0px;
     position: absolute;
-    margin-left: 100px;
+    margin-left: 410px;
     margin-right: auto;
-    margin-top: 100px;
+    margin-top: -240px;
     font-family: "Lucida Console", Courier, monospace;
 
 }
