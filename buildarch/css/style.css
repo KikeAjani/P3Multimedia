@@ -45,6 +45,12 @@ Table of Content:
 
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
+
+.titulo-blanco{
+	color:white;
+}
+	
+
 .list {
     list-style: none;
     margin: 0px;
@@ -170,7 +176,7 @@ button:focus {
     font-size: 16px;
     font-family: "Roboto", sans-serif;
     line-height: 26px;
-    color: #777777;
+    color: #000000;
     margin-bottom: 5px;
     letter-spacing: 2.4px;
     text-transform: uppercase;
@@ -2388,7 +2394,7 @@ h6 {
 .typography h4,
 .typography h5,
 .typography h6 {
-    color: #777777;
+    color: #000000;
 }
 
 .button-area .border-top-generic {
